@@ -5,7 +5,8 @@ Automatic Odoo BackUP
 
 BackUP Manager
 
-modules list:
+Modules list:
+
 	backup_manager
 		Main manager for backup Odoo DataBase over RPC dump.
 		After installed module need change Daily BackUP and BackUP Daily Housekeeping - date time.
